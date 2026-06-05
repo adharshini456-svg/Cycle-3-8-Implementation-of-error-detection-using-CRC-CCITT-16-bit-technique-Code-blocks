@@ -75,12 +75,9 @@ void main() {
 
 
 }
+```
+ ## OUTPUT
 
-## 💻 OUTPUT
-
-<img width="724" height="331" alt="image" src="https://github.com/user-attachments/assets/1f5d9e2b-ad28-4b27-8d96-a50fc26f9752" />
-
-
-
+<img width="450" height="421" alt="image" src="https://github.com/user-attachments/assets/4c7cdf00-51cd-4fee-9276-ff87421db033" />
 
 
